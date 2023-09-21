@@ -74,3 +74,29 @@ On peut également créer des listes, ordonées ou non.
 ```
 BONNE CHANCE
 ```
+
+## Testing/Deployement
+
+Vous pouvez tester la mise en forme **Markdown** en utilisant un repo github. 
+Il y a surement d'autre manière mais je ne suis pas encore à propos de celle-ci.
+
+### Procédure Git Hub via Terminal
+
+Pour tester ma mise en forme j'utilise les commandes suivantes : 
+
+```
+git add .
+git commit -m "[BE-CREATIVE]"
+git push
+```
+
+## Fait avec VCS, Git & Terminal
+
+Et merci becode. 
+
+## Contributeurs : 
+
+- Ahmed
+- Oni
+- Pauline
+- Naïm
