@@ -30,10 +30,16 @@
 [Wikipedia](https://www.wikipedia.org/)
 [Becode](https://becode.org/)
 
-![Code is hard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fsophiekaelin%2Fwhy-is-learning-to-code-so-hard-2921&psig=AOvVaw3o5yqxY6wJi8FE9egDB7mN&ust=1695372235272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiSw_Knu4EDFQAAAAAdAAAAABAE)
+![Code is hard](https://res.cloudinary.com/practicaldev/image/fetch/s--y5u8Sd_w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/stbiq41l2q1a47l49vrh.png)
 
-![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-crazy-hard-developer-cramming-gif-7866345&psig=AOvVaw0IxtoHdWqZ5jvtQqR9P5cb&ust=1695372492645000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDnkO2ou4EDFQAAAAAdAAAAABAE)
+![gif](https://media.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif)
 
 
-`for (i=0, i<=n , i++) 
-console.log(i);`
+```js
+var n=[10,15,25,35,45];
+for (i=0, i<=n , i++) 
+{
+console.log(i);
+}
+```
+
