@@ -4,13 +4,13 @@
 - Games
 - Sports
 
-###an ordered list
+### an ordered list
 
 1. Math
 1. Art
 1. Info
 
-###a list within a list
+### a list within a list
 
 1. Movies
     - John wick
