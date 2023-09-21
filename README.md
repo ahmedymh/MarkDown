@@ -30,13 +30,12 @@ Une fois que tout fonctionne, tu peux écrire comme dans un éditeur de texte ty
 ### La Syntaxe 
 
 Il y a plusieurs manière d'écrire les titre mais je préfère utiliser celle-ci :
-<pre>
+
 ```
  # TITRE PRINCIPALE
  ## SOUS TITRE 
  ### SOUS - SOUS TITRE
 ```
-</pre>
 
 
 
