@@ -5,12 +5,12 @@
 - Tracer7
 - Ninja650
 - Cbr500rr
-2. Yamaha
+1. Yamaha
     - Tracer 7
         - Mt 07
-2. kawasaki
+1. kawasaki
     - Ninja650
         - Z900
-2. Honda
+1. Honda
     - Cbr500rr
         - Cbr600r
