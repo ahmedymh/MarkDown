@@ -94,7 +94,7 @@ git push
 
 Et merci becode. 
 
-## Contributeurs : 
+## Contributeurs 
 
 - Ahmed
 - Oni
