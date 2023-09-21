@@ -20,4 +20,4 @@
 [Yamaha](https://www.yamaha-motor.eu/be/fr/)
 [Kawasaki](https://www.kawasaki.be/fr/products)
 [Honda](https://www.fr.honda.be)
-![Brands Bikes](https://www.moto80.be/app/uploads/2023/05/Capture-décran-2023-05-17-à-14.14.19-1024x395.png)
+![Brands Bikes](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moto80.be%2Factualites%2Fkawasaki-honda-yamaha-et-suzuki-unissent-leurs-forces-pour-lhydrogene%2F&psig=AOvVaw39Gr2fsEQuTfJr1maHsJTd&ust=1695386159137000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDrgeDbu4EDFQAAAAAdAAAAABAJ)
