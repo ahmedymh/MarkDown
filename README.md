@@ -29,6 +29,10 @@ Une fois que tout fonctionne, tu peux écrire comme dans un éditeur de texte ty
 
 ### La Syntaxe 
 
+Voici comment utiliser Markdown dans votre IDE :
+
+#### Titres
+
 Il y a plusieurs manière d'écrire les titre mais je préfère utiliser celle-ci :
 
 ```
@@ -37,5 +41,31 @@ Il y a plusieurs manière d'écrire les titre mais je préfère utiliser celle-c
  ### SOUS - SOUS TITRE
 ```
 
+#### Mise en forme 
 
+Pour changer la forme ou l'inclinaison des lettres, voici la syntaxe que j'utlise :
 
+```
+*italique*
+**gras**
+***gras et italique***
+```
+#### Listes 
+
+On peut également créer des listes, ordonées ou non. 
+
+##### Ordonnées 
+
+```
+1. UN
+2. DEUX
+3. QUATRE 
+```
+
+##### Non - ordonnées 
+
+```
+- DEUX
+- QUATRE
+- UN 
+```
