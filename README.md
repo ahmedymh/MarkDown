@@ -14,7 +14,6 @@ Nous avons simplement d'un éditeur de texte quelquonque et d'un accès a **gith
 4. Avoir *Git*
 5. Avoir un *IDE*
 
-
 >Et c'est parti
 
 ### Installation 
@@ -68,4 +67,10 @@ On peut également créer des listes, ordonées ou non.
 - DEUX
 - QUATRE
 - UN 
+```
+
+##### Faut pas exagérer ...
+
+```
+BONNE CHANCE
 ```
