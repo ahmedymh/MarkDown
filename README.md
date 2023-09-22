@@ -4,7 +4,7 @@ In teams of four you have to create a repository called exercise-markdown, in wh
 
 1. create the repository
 1. clone repository
-1. create [*README.md*]([https://github.com/ahmedymh/MarkDown/blob/Oni/README.md)
+1. create [*README.md*](https://github.com/ahmedymh/MarkDown/blob/Oni/README.md)
 1. create [*markdown.md*](https://github.com/ahmedymh/MarkDown/blob/Oni/Markdown.md)
 
 ### Content
